@@ -12,7 +12,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 - Generated and analyzed plots of lift coefficient, moment coefficient, and stability margins.
 - Simulated UAV dynamic response using MATLAB to assess damping ratios, natural frequencies, and stability modes.
 
-**Project Report** "C:\Users\bball\OneDrive\Desktop\MATLAB Files\EAE 129\EAE 129 Midterm Report.docx"
+📂 **Files:** MATLAB scripts, Aerodynamic Data, and stability calculations.
 📸 **Images:** ![Sample Stability Plot](path/to/image.png)
 
 ---
@@ -45,7 +45,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 - Assessed stability margins, damping ratios, and eigenvalue analysis.
 - Developed visualizations of system response to various input conditions.
 
-📂 **Files:** MATLAB scripts, simulation results, stability analysis report.  
+📂 **Files:** [MATLAB scripts, simulation results, stability analysis report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx) 
 📸 **Images:** ![Simulation Graph](path/to/image.png)
 
 ---
