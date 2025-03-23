@@ -48,7 +48,7 @@ I designed and implemented a lightmeter system using a Raspberry Pi Pico and ass
 - Created and assembled multiple components, including an immovable on/off switch.
 - Applied engineering design principles to ensure realistic functionality and manufacturability.
 
-📂 **Files:** Project Report.
+📂 **Files:** [Project Report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/ENG%204%20Final%20Report%20-%20Desk%20Lamp.docx)
 
 ## How to Use This Portfolio
 - Click on each project folder to explore code, reports, and designs.
