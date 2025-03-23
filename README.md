@@ -40,7 +40,7 @@ I designed and implemented a lightmeter system using a Raspberry Pi Pico and ass
 - Developed a circuit layout for environmental monitoring.
 - Analyzed sensor response to varying moisture levels.
 
-📂 **Files:** 3D models, circuit designs, sensor analysis report.
+📂 **Files:** [3D models, circuit designs, sensor analysis report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/ENG%203%20Poster.pptx)
 
 **Desk Lamp CAD Modeling**
 *Overview:*
