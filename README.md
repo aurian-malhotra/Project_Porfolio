@@ -12,9 +12,11 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 - Conducted wind tunnel data analysis to estimate aerodynamic and stability derivatives.
 - Generated and analyzed plots of lift coefficient, moment coefficient, and stability margins.
 - Simulated UAV dynamic response using MATLAB to assess damping ratios, natural frequencies, and stability modes.
+  
 📂 **Files:** [MATLAB scripts, Aerodynamic Data, and stability calculations.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx)
 
 **Simulation and Analysis of Dynamic Characteristics**
+
 *Overview:*
 - Simulated dynamic motion response of an aerospace system using MATLAB.
 - Assessed stability margins, damping ratios, and eigenvalue analysis.
@@ -26,6 +28,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 In ENG 100, I gained hands-on experience with analog and digital circuits, focusing on both signal processing and circuit design. A key component of the course was learning how to use important electrical engineering equipment such as the digital multimeter, waveform function generator, and oscilloscope. These tools were essential for analyzing and testing various circuits throughout the course.
 
 *Key Labs*
+
 Band-Pass Filter Design:
 The objective of this lab was to create a band-pass filter and analyze its effect on an input signal. This involved configuring multiple op-amps and capacitors to form a combination of low-pass and high-pass filters, allowing the circuit to pass a range of frequencies while filtering out those outside this range. Measurements of the output voltage, gain, time delay, and phase were made across various frequencies, and we confirmed that the filter successfully passed the desired frequencies while attenuating others. A significant part of the process involved troubleshooting the multi-stage filter design to ensure proper performance for both the low-pass and high-pass components before combining them.
 
@@ -35,6 +38,7 @@ I designed and implemented a lightmeter system using a Raspberry Pi Pico and ass
 📂 **Files:** [Lab Reports.](https://drive.google.com/drive/folders/1OLIxaxhgJKH4SrdHeABY9mvpxBQZqFdm?usp=drive_link)
 
 **Soil Moisture Sensor**
+
 *Overview:*
 - Modeled and designed a soil moisture sensor using **3D CAD tools (Onshape)**.
 - Developed a circuit layout for environmental monitoring.
@@ -43,6 +47,7 @@ I designed and implemented a lightmeter system using a Raspberry Pi Pico and ass
 📂 **Files:** [3D models, circuit designs, sensor analysis report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/ENG%203%20Poster.pptx)
 
 **Desk Lamp CAD Modeling**
+
 *Overview:*
 - Designed a detailed 3D model of a desk lamp using SolidWorks.
 - Created and assembled multiple components, including an immovable on/off switch.
