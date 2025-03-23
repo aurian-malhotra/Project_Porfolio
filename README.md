@@ -12,7 +12,6 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 - Conducted wind tunnel data analysis to estimate aerodynamic and stability derivatives.
 - Generated and analyzed plots of lift coefficient, moment coefficient, and stability margins.
 - Simulated UAV dynamic response using MATLAB to assess damping ratios, natural frequencies, and stability modes.
-
 📂 **Files:** [MATLAB scripts, Aerodynamic Data, and stability calculations.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx)
 
 **Simulation and Analysis of Dynamic Characteristics**
