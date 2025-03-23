@@ -27,7 +27,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 **Soil Moisture Sensor**
 
 *Overview:*
-- Modeled and designed a soil moisture sensor using **3D CAD tools (Onshape)**.
+- Modeled and designed a soil moisture sensor using 3D CAD Modeling (Onshape).
 - Developed a circuit layout for environmental monitoring.
 - Analyzed sensor response to varying moisture levels.
 
