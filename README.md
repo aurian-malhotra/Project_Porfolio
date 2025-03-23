@@ -1,4 +1,4 @@
-# Project_Portfolio
+# Project Portfolio
 Showcasing technical projects in Aerospace Engineering
 
 ## About Me
