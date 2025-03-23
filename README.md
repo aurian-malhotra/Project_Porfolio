@@ -32,7 +32,7 @@ The objective of this lab was to create a band-pass filter and analyze its effec
 Lightmeter System:
 I designed and implemented a lightmeter system using a Raspberry Pi Pico and associated components. The system integrated a Wheatstone bridge and an RC low-pass filter to measure light intensity, providing real-time data on a 7-segment display.
 
-📂 **Files:** Lab Reports.
+📂 **Files:** [Lab Reports.](https://drive.google.com/drive/folders/1OLIxaxhgJKH4SrdHeABY9mvpxBQZqFdm?usp=drive_link)
 
 **Soil Moisture Sensor**
 *Overview:*
