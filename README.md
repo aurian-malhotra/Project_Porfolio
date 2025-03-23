@@ -6,7 +6,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 
 ### 🔹 Featured Projects
 
-**Static and Dynamic Stability Analysis of a UAV**
+**Static Stability Analysis of a UAV**
 
 *Overview:*
 - Conducted wind tunnel data analysis to estimate aerodynamic and stability derivatives.
