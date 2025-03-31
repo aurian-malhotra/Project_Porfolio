@@ -6,6 +6,15 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 
 ### 🔹 Featured Projects
 
+**Simulation and Analysis of Dynamic Characteristics**
+
+*Overview:*
+- Simulated dynamic motion response of an aerospace system using MATLAB.
+- Assessed stability margins, damping ratios, and eigenvalue analysis.
+- Developed visualizations of system response to various input conditions.
+
+📂 **Files:** [[MATLAB scripts, simulation results, stability analysis report.]](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Final%20Project%20Report.docx) 
+
 **Static Stability Analysis of a UAV**
 
 *Overview:*
@@ -14,15 +23,6 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 - Simulated UAV dynamic response using MATLAB to assess damping ratios, natural frequencies, and stability modes.
   
 📂 **Files:** [MATLAB scripts, Aerodynamic Data, and stability calculations.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx)
-
-**Simulation and Analysis of Dynamic Characteristics**
-
-*Overview:*
-- Simulated dynamic motion response of an aerospace system using MATLAB.
-- Assessed stability margins, damping ratios, and eigenvalue analysis.
-- Developed visualizations of system response to various input conditions.
-
-📂 **Files:** [MATLAB scripts, simulation results, stability analysis report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx) 
 
 **Soil Moisture Sensor**
 
