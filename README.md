@@ -6,7 +6,7 @@ Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I
 
 ### 🔹 Featured Projects
 
-**Simulation and Analysis of Dynamic Characteristics**
+**Simulation and Analysis of Aircraft Dynamic Characteristics**
 
 *Overview:*
 - Simulated dynamic motion response of an aerospace system using MATLAB.
