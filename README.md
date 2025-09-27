@@ -13,7 +13,7 @@ Hi, I'm Aurian Malhotra, a Senior Aerospace Engineering student at UC Davis. I h
 - Engineered custom components, incluidng mounting plates, shafts, and bearing assemblies, and performed structural and deformation analyses to ensure strength, stability, and manufacturability
 - Resolved key design challenges involving center of gravity, load distribution, fastening methods, and tipping prevention, supported by extensive independent research and collaboration with engineers and suppliers
 
-📂 **Files:** [[For a full technical breakdown of the design process, challenges, and CAD images, see detailed report]]()
+📂 **Files:** [[For a full technical breakdown of the design process, challenges, and CAD images, see detailed report]](https://github.com/aurian-malhotra/Project_Porfolio/blob/main/Fixture%20Assembly%20Description.docx)
 
 ### 🔹 UC Davis Projects
 
