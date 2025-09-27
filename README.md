@@ -2,9 +2,20 @@
 Showcasing technical projects in Aerospace Engineering
 
 ## About Me
-Hi, I'm Aurian Malhotra, a 4th-year Aerospace Engineering student at UC Davis. I have a strong background in stability analysis and dynamic simulations but am still exploring my career path. Currently, I'm most excited about rocket propulsion and applied aerodynamics. This repository showcases my engineering projects, including MATLAB simulations, CAD models, circuit designs, and experimental results.
+Hi, I'm Aurian Malhotra, a Senior Aerospace Engineering student at UC Davis. I have a strong background in structural design and analysis as well as stability analysis and dynamic simulations but am still exploring my career path. Currently, I'm most excited about propulsion systems and applied aerodynamics. This repository showcases my engineering projects, including MATLAB simulations, CAD models, circuit designs, and experimental results.
 
-### 🔹 Featured Projects
+### 🔹 Industry Projects
+
+**Fixture Assembly for Drone Charging Station as  an Asylon Robotics Intern**
+
+*Overview*
+- Designed and modeled a heavy-duty fixture assembly in CATIA V6 to support a 600 lb payload (1000 lb tested) for Asylon's autonomous drone chargin station, enabling 360° rotation and 4ft vertical lift
+- Engineered custom components, incluidng mounting plates, shafts, and bearing assemblies, and performed structural and deformation analyses to ensure strength, stability, and manufacturability.
+- Resolved key design challenges involving center of gravity, load distribution, fastening methods, and tipping prevention, supported by extensive independent research and collaboration with engineers and suppliers
+
+📂 **Files:** [[For a full technical breakdown of the design process, challenges, and CAD images, see detailed report]]()
+
+### 🔹 UC Davis Projects
 
 **Simulation and Analysis of Aircraft Dynamic Characteristics**
 
