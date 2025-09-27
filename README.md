@@ -24,7 +24,7 @@ Hi, I'm Aurian Malhotra, a Senior Aerospace Engineering student at UC Davis. I h
 - Derived and solved nodal energy balance equations to map temperature distribution across the core and handle
 - Visualized thermal gradients with contour plots and evaluated heat transfer to the user under varying convection conditions
 
-📂 **Files:** [[Contains derivations, numerical solutions, and final results of the 2D conduction analysis]]()
+📂 **Files:** [[Contains derivations, numerical solutions, and final results of the 2D conduction analysis]](https://github.com/aurian-malhotra/Project_Porfolio/blob/main/Project%20(1).pdf)
 
 **Simulation and Analysis of Aircraft Dynamic Characteristics**
 
