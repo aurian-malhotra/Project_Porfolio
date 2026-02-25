@@ -17,6 +17,15 @@ Hi, I'm Aurian Malhotra, a Senior Aerospace Engineering student at UC Davis. I h
 
 ### 🔹 UC Davis Projects
 
+**EAE 133 - Finite Element Methods in Aerospace Structures**
+
+*Overview*
+- Performed linear static and bending anlyses using MSC Patran/Nastran, indlucidng model setup, meshing strategy selection, boundary condition definition, and load case development.
+- Validated FEA results against analytical beam theory (Euler-Bernoulli) to evaluate stress distributions, deflections, and structural safety margins.
+- Investigated mesh convergence, element type selection, and modeling assumptions to assess numerical accuracy and structure failure predictions
+
+📂 **Files:**[[Lab Reports Throughout the Course]](https://drive.google.com/drive/folders/1_NZoNjp8xKMigvYpjC9reBfsTeTsnt6c)
+
 **2D Numerical Conduction Analysis of a Lightsaber Thermal System**
 
 *Overview*
