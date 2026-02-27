@@ -17,6 +17,37 @@ Hi, I'm Aurian Malhotra, a graduating Aerospace Engineering student at UC Davis.
 
 ### 🔹 UC Davis Projects
 
+**EAE 143A - Space Mission Design**
+
+*Overview*
+For our senior design project, our team reverse-engineered NASA’s CPOD (CubeSat Proximity Operations Demonstrator) spacecraft and developed proposed subsystem modifications supported by engineering analysis.
+My Position on the Team: I work primarily in Guidance, Navigation, and Control (GNC) with a systems-level perspective. My responsibilities include:
+- Researching and analyzing CPOD’s Attitude Determination and Control System (ADCS)
+- Investigating desaturation strategies (reaction wheels vs magnetorquers vs thrusters)
+- Performing disturbance torque estimation (gravity gradient, drag, SRP)
+- Evaluating momentum accumulation and total impulse requirements
+- Contributing to subsystem-level trade studies tied to mission requirements
+- Translating engineering analysis into mission-driven system requirements
+
+Rather than focusing purely on hardware selection, my role centered on understanding how ADCS performance drives mission capability, especially for RPOD (Rendezvous, Proximity Operations, and Docking).
+
+Independently, I am developing a MATLAB-based rigid-body attitude simulation to model:
+- Quaternion-based spacecraft attitude propagation
+- Reaction wheel torque control
+- Momentum accumulation over time
+- Disturbance torque injection
+- Sensor noise modeling (star tracker + IMU)
+- Basic control law implementation
+
+This model is currently foundational and exploratory. At this stage:
+- It validates rigid body dynamics
+- It demonstrates wheel momentum growth
+- It establishes a framework for desaturation threshold analysis
+
+Because the model is still early-stage and not yet fully validated against mission disturbance environments, I have chosen not to include plots in the portfolio at this time. The emphasis right now is on building correct architecture and physics foundations before presenting performance results.
+
+📂 **Files:**
+
 **EAE 133 - Finite Element Methods in Aerospace Structures**
 
 *Overview*
