@@ -46,7 +46,7 @@ This model is currently foundational and exploratory. At this stage:
 
 Because the model is still early-stage and not yet fully validated against mission disturbance environments, I have chosen not to include plots in the portfolio at this time. The emphasis right now is on building correct architecture and physics foundations before presenting performance results.
 
-📂 **Files:**
+📂 **Files:**[[Posters and Reports on our Research, will be continuously updated]](https://drive.google.com/drive/folders/1nApysK6UlAGnysXohgcYhqiRjGhMnylp?usp=drive_link)
 
 **EAE 133 - Finite Element Methods in Aerospace Structures**
 
