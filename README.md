@@ -20,6 +20,7 @@ Hi, I'm Aurian Malhotra, a graduating Aerospace Engineering student at UC Davis.
 **EAE 143A - Space Mission Design**
 
 *Overview*
+
 For our senior design project, our team reverse-engineered NASA’s CPOD (CubeSat Proximity Operations Demonstrator) spacecraft and developed proposed subsystem modifications supported by engineering analysis.
 My Position on the Team: I work primarily in Guidance, Navigation, and Control (GNC) with a systems-level perspective. My responsibilities include:
 - Researching and analyzing CPOD’s Attitude Determination and Control System (ADCS)
