@@ -2,7 +2,7 @@
 Showcasing technical projects in Aerospace Engineering
 
 ## About Me
-Hi, I'm Aurian Malhotra, a Senior Aerospace Engineering student at UC Davis. I have a strong background in structural design and analysis as well as stability analysis and dynamic simulations but am still exploring my career path. Currently, I'm most excited about propulsion systems and applied aerodynamics. This repository showcases my engineering projects, including MATLAB simulations, CAD models, circuit designs, and experimental results.
+Hi, I'm Aurian Malhotra, a graduating Aerospace Engineering student at UC Davis. I have a strong background in structural design and analysis, stability analysis, and dynamic simulations, with hands-on experience in GNC and attitude control systems. I'm actively seeking roles in GNC, propulsion, and structures. This repository showcases my engineering projects, including MATLAB simulations, CAD models, circuit designs, and experimental results.
 
 ### 🔹 Industry Projects
 
