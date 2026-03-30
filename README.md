@@ -21,33 +21,16 @@ Hi, I'm Aurian Malhotra, a graduating Aerospace Engineering student at UC Davis.
 
 *Overview*
 
-For our senior design project, our team reverse-engineered NASA’s CPOD (CubeSat Proximity Operations Demonstrator) spacecraft and developed proposed subsystem modifications supported by engineering analysis.
-My Position on the team is I work primarily in Guidance, Navigation, and Control (GNC) with a systems-level perspective. My responsibilities include:
-- Researching and analyzing CPOD’s Attitude Determination and Control System (ADCS)
-- Investigating desaturation strategies (reaction wheels vs magnetorquers vs thrusters)
-- Performing disturbance torque estimation (gravity gradient, drag, SRP)
-- Evaluating momentum accumulation and total impulse requirements
-- Contributing to subsystem-level trade studies tied to mission requirements
-- Translating engineering analysis into mission-driven system requirements
+Our team reverse-engineered NASA's CPOD (CubeSat Proximity Operations Demonstrator) and developed a proposed redesign redefining the mission as a proximity inspection demonstrator near the ISS. The project culminated in a Critical Design Review (CDR) covering all subsystems with supporting engineering analysis.
 
-Rather than focusing purely on hardware selection, my role centered on understanding how ADCS performance drives mission capability, especially for RPOD (Rendezvous, Proximity Operations, and Docking).
+My role was GNC/ADCS lead. My contributions include:
+- Designed an LVLH-frame inspection circuit using Clohessy-Wiltshire trajectory families (along-track drift, ellipse, cusp final approach) and performed delta-V budget analysis to verify feasibility against the propulsion system
+- Conducted subsystem trade study on desaturation architecture, recommending a dedicated magnetorquer over a thruster-based approach to preserve the full translational delta-V budget for inspection maneuvers
+- Modeled all four environmental disturbance torques (gravity gradient, aerodynamic drag, solar radiation pressure, magnetic) including eclipse and sun geometry for SRP; estimated momentum accumulation and total impulse requirements to size the desaturation system
+- Developed a MATLAB rigid-body ADCS simulation: quaternion attitude propagation (RK4), PD reaction wheel control, disturbance torque injection, gyro and star tracker noise modeling, and SGP4 orbit propagation with ISS TLE data. Quaternion dynamics and momentum accumulation behavior are validated; desaturation logic is the active extension.
+- Developed independent MATLAB astrodynamics simulations covering SGP4 orbit propagation, ECI/ECEF/LVLH frame transforms, ground station access analysis, and spacecraft power and mode management across multi-day mission timelines
 
-Independently, I am developing a MATLAB-based rigid-body attitude simulation to model:
-- Quaternion-based spacecraft attitude propagation
-- Reaction wheel torque control
-- Momentum accumulation over time
-- Disturbance torque injection
-- Sensor noise modeling (star tracker + IMU)
-- Basic control law implementation
-
-This model is currently foundational and exploratory. At this stage:
-- It validates rigid body dynamics
-- It demonstrates wheel momentum growth
-- It establishes a framework for desaturation threshold analysis
-
-Because the model is still early-stage and not yet fully validated against mission disturbance environments, I have chosen not to include plots in the portfolio at this time. The emphasis right now is on building correct architecture and physics foundations before presenting performance results.
-
-📂 **Files:**[[Posters and Reports on our Research, will be continuously updated]](https://drive.google.com/drive/folders/1nApysK6UlAGnysXohgcYhqiRjGhMnylp?usp=drive_link)
+📂 **Files:**[[Reports and Posters]](https://drive.google.com/drive/folders/1nApysK6UlAGnysXohgcYhqiRjGhMnylp?usp=drive_link)
 
 **EAE 133 - Finite Element Methods in Aerospace Structures**
 
