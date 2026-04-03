@@ -10,7 +10,7 @@ Hi, I'm Aurian Malhotra, a graduating Aerospace Engineering student at UC Davis.
 
 *Overview*
 - Designed and modeled a heavy-duty fixture assembly in CATIA V6 to support a 600 lb payload (1000 lb tested) for Asylon's autonomous drone chargin station, enabling 360° rotation and 4ft vertical lift
-- Engineered custom components, incluidng mounting plates, shafts, and bearing assemblies, and performed structural and deformation analyses to ensure strength, stability, and manufacturability
+- Engineered custom components, including mounting plates, shafts, and bearing assemblies, and performed structural and deformation analyses to ensure strength, stability, and manufacturability
 - Resolved key design challenges involving center of gravity, load distribution, fastening methods, and tipping prevention, supported by extensive independent research and collaboration with engineers and suppliers
 
 📂 **Files:** [[For a full technical breakdown of the design process, challenges, and CAD images, see detailed report]](https://github.com/aurian-malhotra/Project_Porfolio/blob/main/Fixture%20Assembly%20Description.docx)
