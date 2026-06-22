@@ -60,7 +60,7 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:** [[Contains derivations, numerical solutions, and final results of the 2D conduction analysis]](https://github.com/aurian-malhotra/Project_Porfolio/blob/main/Project%20(1).pdf)
 
-**Simulation and Analysis of Aircraft Dynamic Characteristics**
+**EAE 129 - Stability and Control of Aerospace Vehicles: Simulation and Analysis of Aircraft Dynamic Characteristics**
 
 *Overview:*
 - Simulated dynamic motion response of an aerospace system using MATLAB.
@@ -69,7 +69,7 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:** [[MATLAB scripts, simulation results, stability analysis report.]](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Final%20Project%20Report.docx) 
 
-**Static Stability Analysis of a UAV**
+**EAE 129 - Stability and Control of Aerospace Vehicles: Static Stability Analysis of a UAV**
 
 *Overview:*
 - Conducted wind tunnel data analysis to estimate aerodynamic and stability derivatives.
@@ -78,7 +78,7 @@ My role was GNC/ADCS lead. My contributions include:
   
 📂 **Files:** [MATLAB scripts, Aerodynamic Data, and stability calculations.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/EAE%20129%20Midterm%20Report.docx)
 
-**Soil Moisture Sensor**
+**ENG 003 - Intro to Engineering Design: Soil Moisture Sensor**
 
 *Overview:*
 - Modeled and designed a soil moisture sensor using 3D CAD Modeling (Onshape).
@@ -87,7 +87,7 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:** [3D models, circuit designs, sensor analysis report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/ENG%203%20Poster.pptx)
 
-**Desk Lamp CAD Modeling**
+**ENG 004 - Engineering Graphics in Design: Desk Lamp CAD Modeling**
 
 *Overview:*
 - Designed a detailed 3D model of a desk lamp using SolidWorks.
