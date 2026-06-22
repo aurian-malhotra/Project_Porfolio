@@ -32,6 +32,16 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:**[[Reports and Posters]](https://drive.google.com/drive/folders/1nApysK6UlAGnysXohgcYhqiRjGhMnylp?usp=drive_link)
 
+**EAE 198 - Compressible Aerodynamics: Oblique Shock Wave Analysis Over a Supersonic Wedge**
+
+*Overview*
+- Solved the theta-beta-M relation numerically in MATLAB to predict oblique shock wave angles over a two-dimensional wedge across nine flow conditions (M = 2, 2.5, 3; theta = 5°, 10°, 15°)
+- Simulated supersonic flow using ANSYS Fluent with a density-based solver and second-order upwind scheme, extracting shock angles from Mach number contour plots for comparison against theory
+- Extracted quantitative shock angle measurements from Schlieren photography of supersonic wind tunnel experiments using a pixel-coordinate method, achieving agreement within 2° of analytical values across most conditions
+- Co-plotted all three methods on a theta-beta-M diagram and performed qualitative comparison of Schlieren images against CFD Mach contours across all nine cases, validating both computational setup and measurement technique
+
+📂 **Files:**[[Project Report]]
+
 **EAE 133 - Finite Element Methods in Aerospace Structures**
 
 *Overview*
@@ -41,7 +51,7 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:**[[Lab Reports Throughout the Course]](https://drive.google.com/drive/folders/1_NZoNjp8xKMigvYpjC9reBfsTeTsnt6c)
 
-**2D Numerical Conduction Analysis of a Lightsaber Thermal System**
+**EME 165 - Heat Transfer: 2D Numerical Conduction Analysis of a Lightsaber Thermal System**
 
 *Overview*
 - Built a 2D steady-state numerical conduction model in MATLAB to analyze heat transfer within a composite lightsaber system
