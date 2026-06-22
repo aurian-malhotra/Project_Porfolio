@@ -96,7 +96,7 @@ My role was GNC/ADCS lead. My contributions include:
 
 📂 **Files:** [Project Report.](https://github.com/aurian-malhotra/Project_Porfolio/raw/refs/heads/main/ENG%204%20Final%20Report%20-%20Desk%20Lamp.docx)
 
-### Electronic Circuits and Systems (Circuits II)
+**Electronic Circuits and Systems (Circuits II)**
 In ENG 100, I gained hands-on experience with analog and digital circuits, focusing on both signal processing and circuit design. A key component of the course was learning how to use important electrical engineering equipment such as the digital multimeter, waveform function generator, and oscilloscope. These tools were essential for analyzing and testing various circuits throughout the course.
 
 *Key Labs*
