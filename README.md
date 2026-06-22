@@ -40,7 +40,7 @@ My role was GNC/ADCS lead. My contributions include:
 - Extracted quantitative shock angle measurements from Schlieren photography of supersonic wind tunnel experiments using a pixel-coordinate method, achieving agreement within 2° of analytical values across most conditions
 - Co-plotted all three methods on a theta-beta-M diagram and performed qualitative comparison of Schlieren images against CFD Mach contours across all nine cases, validating both computational setup and measurement technique
 
-📂 **Files:**[[Project Report]]
+📂 **Files:**[[Project Report]](https://github.com/aurian-malhotra/Project_Porfolio/blob/main/EAE%20198%20Project.docx)
 
 **EAE 133 - Finite Element Methods in Aerospace Structures**
 
