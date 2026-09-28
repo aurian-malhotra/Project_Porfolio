@@ -30,7 +30,7 @@ My role was GNC/ADCS lead. My contributions include:
 - Developed a MATLAB rigid-body ADCS simulation: quaternion attitude propagation (RK4), PD reaction wheel control, disturbance torque injection, gyro and star tracker noise modeling, and SGP4 orbit propagation with ISS TLE data. Quaternion dynamics and momentum accumulation behavior are validated; desaturation logic is the active extension.
 - Developed independent MATLAB astrodynamics simulations covering SGP4 orbit propagation, ECI/ECEF/LVLH frame transforms, ground station access analysis, and spacecraft power and mode management across multi-day mission timelines
 
-📂 **Files:**[[Reports and Posters]](https://drive.google.com/drive/folders/1nApysK6UlAGnysXohgcYhqiRjGhMnylp?usp=drive_link)
+📂 **Files:**[[Reports and Posters]](https://drive.google.com/drive/folders/122uyYj-iIja-oWaaDRDucEn27BrpPdn8)
 
 **EAE 198 - Compressible Aerodynamics: Oblique Shock Wave Analysis Over a Supersonic Wedge**
 
