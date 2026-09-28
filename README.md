@@ -49,7 +49,7 @@ My role was GNC/ADCS lead. My contributions include:
 - Validated FEA results against analytical beam theory (Euler-Bernoulli) to evaluate stress distributions, deflections, and structural safety margins.
 - Investigated mesh convergence, element type selection, and modeling assumptions to assess numerical accuracy and structure failure predictions
 
-📂 **Files:**[[Lab Reports Throughout the Course]](https://drive.google.com/drive/folders/1_NZoNjp8xKMigvYpjC9reBfsTeTsnt6c)
+📂 **Files:**[[Lab Reports Throughout the Course]](https://drive.google.com/drive/folders/1aZxzooyGjoPaopelanVgP2GJlfkk0Jd2)
 
 **EME 165 - Heat Transfer: 2D Numerical Conduction Analysis of a Lightsaber Thermal System**
 
